@@ -1,1 +1,1 @@
-# hasta-la-vista
+# Django projects
